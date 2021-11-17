@@ -1,0 +1,94 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x06_Female J1
+U 1 1 6194706F
+P 6800 2250
+F 0 "J1" H 6828 2226 50  0000 L CNN
+F 1 "Conn_01x06_Female" H 6828 2135 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 6800 2250 50  0001 C CNN
+F 3 "~" H 6800 2250 50  0001 C CNN
+	1    6800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x06_Male J2
+U 1 1 6194CB1D
+P 5900 2250
+F 0 "J2" H 6008 2631 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 6008 2540 50  0000 C CNN
+F 2 "prototype probe:Cap-Electrode" H 5900 2250 50  0001 C CNN
+F 3 "~" H 5900 2250 50  0001 C CNN
+	1    5900 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 2050 6600 2050
+Wire Wire Line
+	6600 2150 6100 2150
+Wire Wire Line
+	6100 2250 6600 2250
+Wire Wire Line
+	6600 2350 6100 2350
+Wire Wire Line
+	6100 2450 6600 2450
+Wire Wire Line
+	6600 2550 6100 2550
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 61951BAA
+P 5850 1000
+F 0 "H?" H 5950 1046 50  0000 L CNN
+F 1 "MountingHole" H 5950 955 50  0000 L CNN
+F 2 "" H 5850 1000 50  0001 C CNN
+F 3 "~" H 5850 1000 50  0001 C CNN
+	1    5850 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 61952262
+P 6200 1450
+F 0 "H?" H 6300 1496 50  0000 L CNN
+F 1 "MountingHole" H 6300 1405 50  0000 L CNN
+F 2 "" H 6200 1450 50  0001 C CNN
+F 3 "~" H 6200 1450 50  0001 C CNN
+	1    6200 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 619533A4
+P 6800 900
+F 0 "H?" H 6900 946 50  0000 L CNN
+F 1 "MountingHole" H 6900 855 50  0000 L CNN
+F 2 "" H 6800 900 50  0001 C CNN
+F 3 "~" H 6800 900 50  0001 C CNN
+	1    6800 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 619533AA
+P 7150 1350
+F 0 "H?" H 7250 1396 50  0000 L CNN
+F 1 "MountingHole" H 7250 1305 50  0000 L CNN
+F 2 "" H 7150 1350 50  0001 C CNN
+F 3 "~" H 7150 1350 50  0001 C CNN
+	1    7150 1350
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
