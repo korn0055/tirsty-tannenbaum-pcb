@@ -1,29 +1,29 @@
-(module Cap-Electrode (layer F.Cu) (tedit 61966F21)
-  (fp_text reference REF** (at 8 -1) (layer F.SilkS)
+(module Cap-Electrode-Dielectric-Comp (layer F.Cu) (tedit 61966F14)
+  (fp_text reference REF** (at 0 -1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Cap-Electrode (at -3 -2) (layer F.Fab)
+  (fp_text value Cap-Electrode-Dielectric-Comp (at 0 -3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad 2 smd custom (at 5.5 1) (size 1 1) (layers F.Cu)
+  (pad 3 smd custom (at 0 1 180) (size 1 1) (layers B.Cu)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy 5 -1) (xy 5 149) (xy -5 149) (xy -5 -1)) (width 0))
+         (xy 10.5 1) (xy 10.5 -9) (xy -10.5 -9) (xy -10.5 1)) (width 0))
     ))
   (pad 1 smd custom (at -5.5 1) (size 1 1) (layers F.Cu)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy 5 -1) (xy 5 149) (xy -5 149) (xy -5 -1)) (width 0))
+         (xy 5 -1) (xy 5 9) (xy -5 9) (xy -5 -1)) (width 0))
     ))
-  (pad 3 smd custom (at 0 1 180) (size 1 1) (layers B.Cu)
+  (pad 2 smd custom (at 5.5 1) (size 1 1) (layers F.Cu)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-         (xy 10.5 1) (xy 10.5 -149) (xy -10.5 -149) (xy -10.5 1)) (width 0))
+         (xy 5 -1) (xy 5 9) (xy -5 9) (xy -5 -1)) (width 0))
     ))
 )
