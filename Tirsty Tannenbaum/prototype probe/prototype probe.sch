@@ -27,67 +27,67 @@ $EndComp
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 61951BAA
-P 5850 1000
-F 0 "H1" H 5950 1046 50  0000 L CNN
-F 1 "MountingHole" H 5950 955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 5850 1000 50  0001 C CNN
-F 3 "~" H 5850 1000 50  0001 C CNN
-	1    5850 1000
+P 6950 2100
+F 0 "H1" H 7050 2146 50  0000 L CNN
+F 1 "MountingHole" H 7050 2055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 2100 50  0001 C CNN
+F 3 "~" H 6950 2100 50  0001 C CNN
+	1    6950 2100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 61953FE6
-P 6950 1150
-F 0 "H3" H 7050 1196 50  0000 L CNN
-F 1 "MountingHole" H 7050 1105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 1150 50  0001 C CNN
-F 3 "~" H 6950 1150 50  0001 C CNN
-	1    6950 1150
+P 6950 2600
+F 0 "H3" H 7050 2646 50  0000 L CNN
+F 1 "MountingHole" H 7050 2555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 2600 50  0001 C CNN
+F 3 "~" H 6950 2600 50  0001 C CNN
+	1    6950 2600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 619541DC
-P 6900 1450
-F 0 "H2" H 7000 1496 50  0000 L CNN
-F 1 "MountingHole" H 7000 1405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6900 1450 50  0001 C CNN
-F 3 "~" H 6900 1450 50  0001 C CNN
-	1    6900 1450
+P 6950 2350
+F 0 "H2" H 7050 2396 50  0000 L CNN
+F 1 "MountingHole" H 7050 2305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 2350 50  0001 C CNN
+F 3 "~" H 6950 2350 50  0001 C CNN
+	1    6950 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 61954265
-P 7200 1750
-F 0 "H4" H 7300 1796 50  0000 L CNN
-F 1 "MountingHole" H 7300 1705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 7200 1750 50  0001 C CNN
-F 3 "~" H 7200 1750 50  0001 C CNN
-	1    7200 1750
+P 6950 2850
+F 0 "H4" H 7050 2896 50  0000 L CNN
+F 1 "MountingHole" H 7050 2805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 2850 50  0001 C CNN
+F 3 "~" H 6950 2850 50  0001 C CNN
+	1    6950 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H6
 U 1 1 61957E7A
-P 8200 1600
-F 0 "H6" H 8300 1646 50  0000 L CNN
-F 1 "MountingHole" H 8300 1555 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 8200 1600 50  0001 C CNN
-F 3 "~" H 8200 1600 50  0001 C CNN
-	1    8200 1600
+P 6950 3350
+F 0 "H6" H 7050 3396 50  0000 L CNN
+F 1 "MountingHole" H 7050 3305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 3350 50  0001 C CNN
+F 3 "~" H 6950 3350 50  0001 C CNN
+	1    6950 3350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
 U 1 1 6195B4DC
-P 7200 2050
-F 0 "H5" H 7300 2096 50  0000 L CNN
-F 1 "MountingHole" H 7300 2005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 7200 2050 50  0001 C CNN
-F 3 "~" H 7200 2050 50  0001 C CNN
-	1    7200 2050
+P 6950 3100
+F 0 "H5" H 7050 3146 50  0000 L CNN
+F 1 "MountingHole" H 7050 3055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6950 3100 50  0001 C CNN
+F 3 "~" H 6950 3100 50  0001 C CNN
+	1    6950 3100
 	1    0    0    -1  
 $EndComp
 $Comp
